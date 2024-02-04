@@ -28,7 +28,7 @@
 
 1. Move into the `mongoose-movies` project we started in the Intro to Mongoose lesson:
     ```
-    cd ~/code/mongoose-movies
+    cd ~/GA/labs/mongoose-movies
     ```
 2. Sync your code with the starter code for this lesson (mandatory):
 
