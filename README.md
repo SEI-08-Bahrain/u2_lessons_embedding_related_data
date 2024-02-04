@@ -31,7 +31,7 @@
 3. `cd` into *u2_lessons_embeeding_related_data_starter_code*
 4. `npm i` to install the necessary dependencies for the project to run. 
 5.  `touch` a `.env` file
-6.  Copy over your `DATABASE_URL` from yesterdya's **into to mongoose** code. 
+6.  Copy over your `DATABASE_URL` from yesterdya's **intro to mongoose** code. 
 
 ## 2. Review the Starter Code
 
