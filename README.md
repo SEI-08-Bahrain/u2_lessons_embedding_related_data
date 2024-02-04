@@ -27,10 +27,11 @@
 ## 1. Setup
 
 1. Navigate to [this link](https://github.com/SEI-08-Bahrain/u2_lessons_embedding_related_data_starter_code) to obtain the starter code
-2. `cd` into `u2_lessons_embeeding_related_data_starter_code`
-3. `npm i` to install the necessary dependencies for the project to run. 
-4.  `touch` a `.env` file
-5.  Copy over your `DATABASE_URL` from yesterdya's **into to mongoose** code. 
+2. Fork and clone.  
+3. `cd` into `u2_lessons_embeeding_related_data_starter_code`
+4. `npm i` to install the necessary dependencies for the project to run. 
+5.  `touch` a `.env` file
+6.  Copy over your `DATABASE_URL` from yesterdya's **into to mongoose** code. 
 
 ## 2. Review the Starter Code
 
