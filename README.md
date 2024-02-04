@@ -26,7 +26,7 @@
 
 ## 1. Setup
 
-1. Navigate to [this link for the starter code](https://github.com/SEI-08-Bahrain/u2_lessons_embedding_related_data_starter_code)
+1. Navigate to [this link](https://github.com/SEI-08-Bahrain/u2_lessons_embedding_related_data_starter_code) to obtain the starter code
 2. `cd` into `u2_lessons_embeeding_related_data_starter_code`
 3. `npm i` to install the necessary dependencies for the project to run. 
 4.  `touch` a `.env` file
